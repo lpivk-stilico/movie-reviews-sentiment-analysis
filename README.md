@@ -1,4 +1,5 @@
 ## Requirements:
+- conda
 - tensorflow
 - streamlit
 
