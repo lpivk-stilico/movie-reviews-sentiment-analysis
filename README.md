@@ -1,1 +1,8 @@
-# movie-reviews-sentiment-analysis
+## Requirements:
+- tensorflow
+- streamlit
+
+## Run Streamlit App
+```
+streamlit run streamlit.py
+```
